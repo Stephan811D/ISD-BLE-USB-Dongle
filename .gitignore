@@ -1,0 +1,6 @@
+#stm32cubeide
+/Debug
+/Release
+/.settings
+.mxproject
+*.launch
